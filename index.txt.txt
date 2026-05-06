@@ -3,3 +3,5 @@ I am learning GitHub.
 Git helps tract changes.
 Git is useful for collaboration.
 It keeps project history safe.
+line 6 
+line 7
